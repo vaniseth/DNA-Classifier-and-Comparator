@@ -16,8 +16,11 @@ In RNA, the base Uracil (U) takes the place of Thymine.
 The sequence tells the scientist the kind of gentic information that is carried in a particular DNA segment.
 
 **Sources**: 
+
 https://www.genome.gov/genetics-glossary/Nucleotide
+
 https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet
 
 **Result**
+
 ![image](https://user-images.githubusercontent.com/74897823/170434927-b6a16a53-464e-4473-b433-2f112740f8aa.png)
