@@ -15,7 +15,7 @@ In RNA, the base Uracil (U) takes the place of Thymine.
 **DNA SEQUENCING**: Sequencing DNA means determining the order of the four chemical building blocks - called "bases" - that make up the DNA molecule.
 The sequence tells the scientist the kind of gentic information that is carried in a particular DNA segment.
 
-### **SOURCES:** 
+### **SOURCES** 
 
 https://www.genome.gov/genetics-glossary/Nucleotide
 
