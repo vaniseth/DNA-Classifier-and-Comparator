@@ -1,6 +1,6 @@
 # DNA-Classifier-and-Comparator
 
-This is DNA Classifer and a comparator project where we are checkinf DNA sequences using various CLassification algorithms.
+This is DNA Classifer and a comparator project where we are checking DNA sequences using various CLassification algorithms.
 
 The dataset used for this project is from UCI Machine Learning that has 100 DNA sequences and 57 seqential algorithms.
 Dataset link: https://archive.ics.uci.edu/ml/machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.data
